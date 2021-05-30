@@ -1,6 +1,7 @@
 # slidetounlock
 
 A new Flutter project.
+Slide to unlock the device. Unlocking Mobile
 
 ## Getting Started
 
